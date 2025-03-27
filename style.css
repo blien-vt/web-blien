@@ -2,3 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
+.mau1 {
+  color: black;
+  background-color: Pink;
+  text-align:center;
+  padding:22px;
+}
+.mau2 {
+  color: white;
+  background-color:tomato;
+  padding: 5px;
+}
+.mau2 a {
+  color: white;
+}
+.mau2 a:hover {
+  background-color:Red;
+}
